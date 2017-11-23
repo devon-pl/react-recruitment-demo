@@ -2,7 +2,7 @@
 
 [Demo url](http://dwz5c51ptkmj.cloudfront.net)
 
-[![Build Status](https://travis-ci.org/devon-pl/react-recruitment-demo.svg?branch=master)](https://travis-ci.org/devon-pl/react-recruitment-demo)
+[![Build Status](https://travis-ci.org/devon-pl/tv-show-search-prototype.svg?branch=master)](https://travis-ci.org/devon-pl/tv-show-search-prototype)
 ## Installation
 
 ```bash
