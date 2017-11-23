@@ -2,10 +2,11 @@
 
 [Demo url](http://dwz5c51ptkmj.cloudfront.net)
 
+[![Build Status](https://travis-ci.org/devon-pl/react-recruitment-demo.svg?branch=master)](https://travis-ci.org/devon-pl/react-recruitment-demo)
 ## Installation
 
 ```bash
-npm install
+yarn install
 ```
 
 ## How to run?
@@ -13,13 +14,13 @@ npm install
 Install all the dependencies first, and them run:
 
 ```bash
-npm start
+yarn start
 ```
 
 ## How to run tests?
 
 ```bash
-npm test
+yarn test
 ```
 
 ## License

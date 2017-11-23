@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "6"
+before_install:
+  - echo "Updating npm"
+  - npm update -g
+install:
+  - yarn
+script:
+  - echo "Unit tests with code coverage"
+  - yarn test --coverage
