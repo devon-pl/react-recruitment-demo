@@ -5,7 +5,7 @@ const About = props => (
   <div>
     <Typography type="title" gutterBottom>Info</Typography>
     <Typography type="subheading" gutterBottom>
-      React+Redux+Material UI+Axios+React Axios Middlewareprototype
+      Simple demo based on: React, Redux, Material UI, Axios and React Axios Middleware.
     </Typography>
     <Typography type="body1"><strong>Author:</strong> Daniel Kurylo</Typography>
     <Typography type="body1"><strong>License:</strong> MIT</Typography>
